@@ -1,5 +1,5 @@
 {
-  "name": "ryan",
+  "name": "linwood",
   "version": "1.0.0",
   "description": "A full-customizable discord bot",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeDoctorDE/Ryan.git"
+    "url": "git+https://github.com/CodeDoctorDE/Linwood.git"
   },
   "keywords": [
     "discord",
@@ -24,9 +24,9 @@
   "author": "CodeDoctorDE",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CodeDoctorDE/Ryan/issues"
+    "url": "https://github.com/CodeDoctorDE/Linwood/issues"
   },
-  "homepage": "https://github.com/CodeDoctorDE/Ryan#readme",
+  "homepage": "https://github.com/CodeDoctorDE/Linwood#readme",
   "dependencies": {
     "discord.js": "^11.5.1",
     "express": "^4.17.1",
